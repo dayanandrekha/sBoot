@@ -1,4 +1,4 @@
-package com.khoubyari.example.test;
+package com.khoubyari.example;
 
 /**
  * Uses JsonPath: http://goo.gl/nwXpb, Hamcrest and MockMVC
